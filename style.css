@@ -1,0 +1,16 @@
+body {
+    background:linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
+
+.container {
+    width: 70%;
+    margin: 0 auto;
+    background: white;
+    border: 1px solid black;
+    box-shadow: 4px 6px 5px black;
+    
+}
+
+#blue {
+    float: left;
+}
